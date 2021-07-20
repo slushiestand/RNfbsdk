@@ -10,7 +10,7 @@
     "adm-zip": "^0.4.13",
     "plist": "^3.0.1",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-fbsdk": "^0.8.0",
     "xcode": "^2.0.0"
   },
